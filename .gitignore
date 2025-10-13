@@ -1,5 +1,8 @@
 passwd.txt
-naomi_russel.json
+data.json
+*.log
+logs/
+.DS_Store
 
 
 
